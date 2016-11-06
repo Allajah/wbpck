@@ -1,11 +1,15 @@
 {
-  "name": "wbpck",
-  "version": "0.0.0",
-  "description": "Static-Website generator with webpack",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "r1o",
-  "license": "MIT"
+    "name": "wbpck",
+    "version": "0.0.0",
+    "description": "Static-Website generator with webpack",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "r1o",
+    "license": "MIT",
+    "repository" :
+    { "type" : "git" ,
+        "url" : "https://github.com/Allajah/wbpck.git"
+    }
 }
